@@ -1,0 +1,24 @@
+.header {
+  padding: "10px 20px";
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.logo-container {
+  flex-shrink: 0;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+.nav-items > ul {
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+/*# sourceMappingURL=app.75a90472.css.map */
