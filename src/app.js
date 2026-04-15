@@ -84,7 +84,9 @@ const appRouter = createBrowserRouter([
       },
     ],
   },
-]);
+], {
+  basename: window.location.hostname.includes("github.io") ? "/Amazon-Clone" : "/",
+});
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
