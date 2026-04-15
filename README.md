@@ -1,8 +1,8 @@
-# My Amazon Sample Clone 👋
+# My Swiggy Sample Clone 👋
 
 **🚀 Live Demo: <a href="https://sriharshitha-konkathi.github.io/Swiggy-Clone/" target="_blank" rel="noopener noreferrer">View Project on GitHub Pages</a>**
 
-Hi there! This is a sample Amazon clone I built to practice and showcase my frontend development skills.
+Hi there! This is a sample Swiggy clone I built to practice and showcase my frontend development skills.
 
 ## 🛠️ What's inside?
 Here's a quick look at the tech stack I chose to build this project:
